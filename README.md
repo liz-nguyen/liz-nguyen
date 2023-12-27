@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @liz-nguyen
+- 👋 Hi, I’m @liz-nguyen!
 - 👀 I’m interested in python, food, bright colors, dog videos, cat videos, KPOP, and cooking.
 - 🌱 I’m currently learning python and northern vietnamese cuisines
 - 💞️ I’m looking to collaborate on everything!
